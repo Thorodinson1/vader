@@ -1,4 +1,4 @@
-package com.lagradost
+package com.vader
 
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.lagradost.cloudstream3.*
